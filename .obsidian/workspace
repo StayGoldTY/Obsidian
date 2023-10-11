@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "975457bbe63e9396",
+    "type": "split",
+    "children": [
+      {
+        "id": "05451d63d10786b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "设计规约.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2e53eddea9d7e106",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "设计规约.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52eed69168ebe015",
+    "type": "split",
+    "children": [
+      {
+        "id": "764554620b3bcdf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0968c3f6ef523046",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7cda5dc4d8b2897",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38809d7fa3f42de6",
+    "type": "split",
+    "children": [
+      {
+        "id": "673a05678a340f1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e24293b0935925f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "设计规约.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2e53eddea9d7e106",
+  "lastOpenFiles": [
+    "设计规约.md"
+  ]
+}

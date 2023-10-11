@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "975457bbe63e9396",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e736b637b4969f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f44e1abbba3fa4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "后端/依赖注入和AOP相关/Autofac的用法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52eed69168ebe015",
+    "type": "split",
+    "children": [
+      {
+        "id": "764554620b3bcdf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0968c3f6ef523046",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7cda5dc4d8b2897",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#问：我能这样理解吗？cat",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fda0bf37d4e6288",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38809d7fa3f42de6",
+    "type": "split",
+    "children": [
+      {
+        "id": "673a05678a340f1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e24293b0935925f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "后端/依赖注入和AOP相关/Autofac的用法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "0968c3f6ef523046",
+  "lastOpenFiles": [
+    "读书笔记",
+    "前端/CSS相关/样式穿透/样式穿透2.md",
+    "前端/CSS相关/样式穿透/v-deep相关.md",
+    "前端/CSS相关/样式穿透/样式穿透相关.md",
+    "后端/依赖注入和AOP相关/Autofac的用法.md",
+    "后端/依赖注入和AOP相关",
+    "后端",
+    "暗时间/如何清晰地思考：近一年来业余阅读的关于思维方面的知识结构整理（附大幅思维导图.md",
+    "算法/算法背后/学习算法背后的东西.md",
+    "前端/CSS相关/样式穿透",
+    "前端/CSS相关/前端基础/el-row相关.md",
+    "前端/CSS相关/前端基础",
+    "前端/CSS相关",
+    "算法/前端/未命名.md",
+    "暗时间/鱼是最后一个看到水的.md",
+    "前端",
+    "日常思路整理/切片上传.md",
+    "日常思路整理/vue同一个路由打开多个界面.md",
+    "Pasted image 20230818113847.png",
+    "Pasted image 20230818112802.png",
+    "Pasted image 20230818111932.png",
+    "暗时间/什么是算法，为什么需要学算法，以及算法学到什么程度.md",
+    "暗时间/如何有效的学习和记忆.md",
+    "暗时间",
+    "算法/算法背后/揣摩.md",
+    "算法/学习笔记/栈和队列/双向队列.md",
+    "算法/学习笔记/栈和队列/队列.md",
+    "算法/学习笔记/栈和队列/栈.md",
+    "算法/学习笔记/数据结构基础/基本数据结构.md",
+    "算法/算法背后",
+    "算法/未命名.md",
+    "算法/学习笔记/数据结构基础/栈内存和堆内存.md",
+    "算法/学习笔记/栈和队列",
+    "算法/学习笔记/数组与链表/链表.md",
+    "算法/学习笔记/数据结构基础",
+    "设计规约.md",
+    "test.canvas",
+    "未命名.canvas",
+    "算法/学习笔记/数组与链表/数组和链表学习心得.md",
+    "算法/学习笔记/数组与链表/列表.md",
+    "算法/学习笔记/数组与链表/数组.md",
+    "Pasted image 20230411085300.png",
+    "Pasted image 20230411085308.png",
+    "Pasted image 20230411085311.png",
+    "Pasted image 20230411085319.png"
+  ]
+}
