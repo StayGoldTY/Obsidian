@@ -4,5 +4,21 @@
       "modifiers": [],
       "key": "F5"
     }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F1"
+    }
+  ],
+  "calendar:show-calendar-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F2"
+    }
   ]
 }
