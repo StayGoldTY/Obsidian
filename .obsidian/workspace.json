@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f44e1abbba3fa4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/后端/容器化相关技术/Rancher相关/Rancher2.5.9 升级rancher 2.7.1复盘.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6eff11a810ca17a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/后端/容器化相关技术/Docker/docker 部署细节.md",
+                "file": "Obsidian/后端/NET CORE/从.net core3.1升级到.net core 8.0踩坑及总结记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DaemonSet",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/后端/容器化相关技术/Rancher相关/Rancher2.5.9 升级rancher 2.7.1复盘.md",
+                "file": "Obsidian/后端/NET CORE/从.net core3.1升级到.net core 8.0踩坑及总结记录.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,46 +115,47 @@
       "templates:插入模板": false
     }
   },
-  "active": "4f44e1abbba3fa4e",
+  "active": "6eff11a810ca17a0",
   "lastOpenFiles": [
+    "Obsidian/后端/容器化相关技术/Docker/信创环境部署记录.md",
+    "Obsidian/后端/容器化相关技术/Docker/docker 部署细节.md",
+    "Obsidian/后端/NET CORE/从.net core3.1升级到.net core 8.0踩坑及总结记录.md",
+    "Obsidian/后端/NET CORE",
+    "Obsidian/后端/容器化相关技术/Docker/Docker其他知识.md",
+    "Obsidian/后端/容器化相关技术/Docker/Docker Buildx构建跨架构容器.md",
+    "Obsidian/后端/容器化相关技术/Docker/docker-compose入门教程.md",
+    "Obsidian/后端/容器化相关技术/Docker/docker 安装.md",
+    "Obsidian/暗时间/遇到问题为什么应该自己动手.md",
+    "Obsidian/以我视众/最小阻力之路/最小阻力之路读书笔记.md",
+    "有道云/《最小阻力之路》与大自然同声息 创作物有自己的生命和周期.pdf",
+    "Obsidian/以我视众/最小阻力之路",
+    "Obsidian/后端/容器化相关技术/K8S/记一次 no space left on device错误.md",
+    "Obsidian/后端/容器化相关技术/Rancher相关/Rancher2.5.9 升级rancher 2.7.1复盘.md",
+    "有道云/工作踩坑总结/构建相关/禅道/docker重启后禅道突然不能访问了.md",
+    "Obsidian/小记录/日常小记录/体重记录.md",
+    "Pasted image 20240220102706.png",
+    "有道云/工作踩坑总结/构建相关/深投控项目构建踩坑.note.pdf",
+    "有道云/工作踩坑总结/构建相关/jenkins/如果之前构建正常的代码突然构建就报错了.note.pdf",
+    "Obsidian/以我视众/视和游/游戏/一定要玩的游戏/2023-11-14.md",
+    "有道云/工作踩坑总结/构建相关/jenkins",
+    "有道云/工作踩坑总结/构建相关/禅道",
+    "Obsidian/后端/数据库/数据库疑难问题/所有对于数据库操作比如Alter Table;Create Table都很慢.md",
+    "Obsidian/后端/数据库/SQL SERVER转mysql记录.md",
+    "Obsidian/后端/数据库/数据库疑难问题",
+    "Obsidian/小记录/自我测试小记录/自我测试小记录.md",
+    "有道云/Idea最新版创建一个SpringMVC项目的详细步骤.clip.pdf",
+    "Obsidian/小记录/自我测试小记录",
     "Obsidian/以我视众/日记/2024-01-15 关于真正的人生.md",
     "Obsidian/模板/零食记录.md",
-    "Obsidian/小记录/日常小记录/体重记录.md",
     "Obsidian/后端/容器化相关技术/YAML入门.md",
     "Obsidian/小记录/困难小记录/关于困难.md",
-    "Obsidian/后端/容器化相关技术/Rancher相关/Rancher2.5.9 升级rancher 2.7.1复盘.md",
     "Obsidian/后端/容器化相关技术/Rancher相关/Rancher备份.md",
-    "Obsidian/后端/容器化相关技术/Docker/信创环境部署记录.md",
     "Obsidian/后端/容器化相关技术/K8S/k8s入门.md",
-    "Obsidian/后端/容器化相关技术/Docker",
     "Obsidian/后端/容器化相关技术/Rancher相关/Rancher学习.md",
-    "Obsidian/后端/容器化相关技术/K8S",
-    "Obsidian/后端/容器化相关技术/Rancher相关",
     "Obsidian/以我视众/关于情绪/语言霸凌.md",
-    "thread__16397251_20240109062432_73822_wz_transcode.mp4",
-    "Obsidian/以我视众/关于情绪",
-    "Obsidian/小记录/未命名",
-    "Obsidian/后端/容器化相关技术/Docker/Docker Buildx构建跨架构容器.md",
-    "Obsidian/后端/容器化相关技术/Docker/docker 安装.md",
-    "Obsidian/后端/数据库/SQL SERVER转mysql记录.md",
     "Obsidian/后端/依赖注入和AOP相关/NET Core依赖注入服务 生命周期.md",
-    "Obsidian/暗时间/遇到问题为什么应该自己动手.md",
-    "有道云/工作踩坑总结/海南图审的其他坑/Surging框架从sqlserver迁移到mysql.md",
     "Pasted image 20240104142120.png",
     "Pasted image 20240104142041.png",
-    "Obsidian/后端/依赖注入和AOP相关/Autofac的用法.md",
-    "docker-24.0.7.tgz",
-    "Obsidian/后端/容器化相关技术/Docker/docker 部署细节.md",
-    "Obsidian/后端/容器化相关技术/Docker/docker-compose入门教程.md",
-    "有道云/工作踩坑总结/构建相关/信创环境部署记录.md",
-    "Obsidian/前端/Vue相关/prop传值的区别.md",
-    "Obsidian/后端/容器化相关技术",
-    "Obsidian/前端/Vue相关",
-    "Obsidian/后端/代理相关/nginx/nginx 学习.md",
-    "Obsidian/后端/代理相关/nginx",
-    "Obsidian/后端/数据库/SQL 语句/SQL 注入相关.md",
-    "Obsidian/前端/CSS相关/样式穿透/样式穿透2.md",
-    "Obsidian/后端/数据库/数据库工具/SQL SERVER/SQL SERVER长度问题汇总.md",
     "Pasted image 20231212095302.png",
     "Pasted image 20231212095257.png",
     "Pasted image 20231212095247.png",
@@ -174,7 +163,6 @@
     "Pasted image 20231212095203.png",
     "Pasted image 20231212095158.png",
     "Pasted image 20231212095152.png",
-    "Pasted image 20231212095144.png",
     "test.canvas",
     "未命名.canvas"
   ]
