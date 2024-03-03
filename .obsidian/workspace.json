@@ -13,35 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/后端/NET CORE/从.net core3.1升级到.net core 8.0踩坑及总结记录.md",
-                "file": "Obsidian/以我视众/视和游/游戏/一定要玩的游戏/2023-11-14.md",
+                "file": "Obsidian/后端/容器化相关技术/jenkins/net core 3.1升级到.net 8.0 jenkins构建问题.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d761acef1eab0930",
+            "id": "da7a9f3586683325",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
-            "id": "6fc43c6891075d1d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
+                "file": "Obsidian/后端/NET CORE/从.net core3.1升级到.net core 8.0踩坑及总结记录.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "重构",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,11 +128,16 @@
       "templates:插入模板": false
     }
   },
-  "active": "6eff11a810ca17a0",
+  "active": "da7a9f3586683325",
   "lastOpenFiles": [
+    "Obsidian/后端/NET CORE/升级.net core 8.0和之前3.1语法不一致的问题踩坑.md",
+    "Obsidian/后端/NET CORE/从.net core3.1升级到.net core 8.0踩坑及总结记录.md",
+    "Obsidian/后端/容器化相关技术/jenkins/net core 3.1升级到.net 8.0 jenkins构建问题.md",
+    "Obsidian/后端/容器化相关技术/Docker/升级8.0 自己构建dockerfiles测试记录.md",
+    "Obsidian/后端/容器化相关技术/jenkins",
+    "Obsidian/以我视众/视和游/游戏/一定要玩的游戏/2023-11-14.md",
     "Obsidian/后端/容器化相关技术/Docker/信创环境部署记录.md",
     "Obsidian/后端/容器化相关技术/Docker/docker 部署细节.md",
-    "Obsidian/后端/NET CORE/从.net core3.1升级到.net core 8.0踩坑及总结记录.md",
     "Obsidian/后端/NET CORE",
     "Obsidian/后端/容器化相关技术/Docker/Docker其他知识.md",
     "Obsidian/后端/容器化相关技术/Docker/Docker Buildx构建跨架构容器.md",
@@ -159,7 +154,6 @@
     "Pasted image 20240220102706.png",
     "有道云/工作踩坑总结/构建相关/深投控项目构建踩坑.note.pdf",
     "有道云/工作踩坑总结/构建相关/jenkins/如果之前构建正常的代码突然构建就报错了.note.pdf",
-    "Obsidian/以我视众/视和游/游戏/一定要玩的游戏/2023-11-14.md",
     "有道云/工作踩坑总结/构建相关/jenkins",
     "有道云/工作踩坑总结/构建相关/禅道",
     "Obsidian/后端/数据库/数据库疑难问题/所有对于数据库操作比如Alter Table;Create Table都很慢.md",
@@ -167,16 +161,12 @@
     "Obsidian/后端/数据库/数据库疑难问题",
     "Obsidian/小记录/自我测试小记录/自我测试小记录.md",
     "有道云/Idea最新版创建一个SpringMVC项目的详细步骤.clip.pdf",
-    "Obsidian/小记录/自我测试小记录",
     "Obsidian/以我视众/日记/2024-01-15 关于真正的人生.md",
     "Obsidian/模板/零食记录.md",
     "Obsidian/后端/容器化相关技术/YAML入门.md",
     "Obsidian/小记录/困难小记录/关于困难.md",
     "Obsidian/后端/容器化相关技术/Rancher相关/Rancher备份.md",
     "Obsidian/后端/容器化相关技术/K8S/k8s入门.md",
-    "Obsidian/后端/容器化相关技术/Rancher相关/Rancher学习.md",
-    "Obsidian/以我视众/关于情绪/语言霸凌.md",
-    "Obsidian/后端/依赖注入和AOP相关/NET Core依赖注入服务 生命周期.md",
     "Pasted image 20240104142120.png",
     "Pasted image 20240104142041.png",
     "Pasted image 20231212095302.png",
@@ -186,14 +176,6 @@
     "Pasted image 20231212095203.png",
     "Pasted image 20231212095158.png",
     "Pasted image 20231212095152.png",
-    "Obsidian/设计规约.md",
-    "Obsidian/算法/学习笔记/栈和队列/队列.md",
-    "Obsidian/文件/Pasted image 20230818111932.png",
-    "Obsidian/文件/Pasted image 20231101084317.png",
-    "Obsidian/文件/Pasted image 20231027101857.png",
-    "Obsidian/文件/Pasted image 20231026154409.png",
-    "Obsidian/文件/Pasted image 20230818113847.png",
-    "Obsidian/文件/Pasted image 20230818112802.png",
     "test.canvas",
     "未命名.canvas"
   ]
