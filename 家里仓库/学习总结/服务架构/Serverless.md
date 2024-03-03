@@ -1,0 +1,1 @@
+我们可以先看 Serverfull 的概念，对比 Serverfull 和 Serverless 之间的差别，相信这样可以加深你的理解。Serverfull 就是服务端运维全由我们自己负责，Serverless 则是服务端运维较少由我们自己负责，大多数的运维工作交给自动化工具负责

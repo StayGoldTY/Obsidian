@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/后端/数据库/SQL 语句/SQL 语句问题总结.md",
+                "file": "Obsidian/以我视众/视和游/游戏/一定要玩的游戏/2023-11-14.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d761acef1eab0930",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
+            "id": "6fc43c6891075d1d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "重构",
+                "query": "rancher",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/后端/数据库/SQL 语句/SQL 语句问题总结.md",
+                "file": "Obsidian/以我视众/视和游/游戏/一定要玩的游戏/2023-11-14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,10 +137,18 @@
       "templates:插入模板": false
     }
   },
-  "active": "4f44e1abbba3fa4e",
+  "active": "6fc43c6891075d1d",
   "lastOpenFiles": [
-    "Obsidian/小记录/日常小记录/体重记录.md",
+    "家里仓库/学习总结/工具学习/GitHub Copilot.md",
+    "Pasted image 20231205202524.png",
+    "家里仓库/学习总结/服务架构/周志明的软件架构课.md",
+    "家里仓库/学习总结/工具学习",
+    "家里仓库/学习总结/服务架构/Serverless.md",
+    "家里仓库/学习总结/服务架构",
     "Obsidian/后端/数据库/SQL 语句/SQL 语句问题总结.md",
+    "家里仓库/学习总结",
+    "家里仓库",
+    "Obsidian/小记录/日常小记录/体重记录.md",
     "Obsidian/后端/数据库/SQL 语句",
     "Obsidian/以我视众/书/待看的书/待看的书.md",
     "Obsidian/以我视众/视和游/游戏/待过滤需要玩的游戏/2023-11-01.md",
@@ -132,12 +162,8 @@
     "Obsidian/小记录/工作小记录/带使用的框架",
     "Obsidian/后端/数据库/分布式数据库/后续可以考虑分布式数据库的运用.md",
     "Obsidian/后端/数据库/分布式数据库",
-    "Obsidian/后端/数据库",
     "Obsidian/代码重构/测试/单元测试/单元测试.md",
-    "Obsidian/代码重构/修改代码的艺术/修改代码的艺术.pdf",
-    "Obsidian/代码重构/测试/单元测试",
     "Obsidian/代码重构/测试/关于测试.md",
-    "Obsidian/代码重构/修改代码的艺术",
     "Obsidian/代码重构/重构2笔记/第一章.md",
     "Obsidian/以我视众/人生/最重要的一句话.md",
     "Obsidian/以我视众/人生/关于顿悟.md",
@@ -152,10 +178,6 @@
     "5688e6e1db6e95766318c4fcff8425b.png",
     "Obsidian/工具/Git/常用的git命令.md",
     "Obsidian/以我视众/日记/2023-10-30  关于我.md",
-    "Obsidian/代码重构/重构2笔记/前记.md",
-    "有道云/工作踩坑总结/SQL相关/DataGrip踩坑.md",
-    "Obsidian/设计规约.md",
-    "Obsidian/算法/学习笔记/栈和队列/队列.md",
     "Obsidian/文件/Pasted image 20230818111932.png",
     "Obsidian/文件/Pasted image 20231101084317.png",
     "Obsidian/文件/Pasted image 20231027101857.png",
@@ -163,7 +185,6 @@
     "Obsidian/文件/Pasted image 20230818113847.png",
     "Obsidian/文件/Pasted image 20230818112802.png",
     "test.canvas",
-    "未命名.canvas",
-    "Pasted image 20230411085300.png"
+    "未命名.canvas"
   ]
 }
