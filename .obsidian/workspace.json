@@ -8,36 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6eff11a810ca17a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/以我视众/视和游/游戏/某些感悟.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "52818b60b43b2907",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/后端/底层技术相关/内存/dotnetcore容器内存泄漏排查步骤.md",
+                "file": "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术/0.解依赖技术.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2bd33743065f2443",
+            "id": "dc8f3bf928b655a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/代码重构/写出好的代码/读书笔记/软件单元测试/测试替身.md",
+                "file": "Obsidian/后端/容器化相关技术/ELK/ELK得几个关键概念.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87edb27aade889f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/后端/容器化相关技术/Docker/docker  拉取镜像报错的配置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "762121a2c90e8415",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/10.无法在测试用具中运行方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "内存泄漏",
+                "query": "Deployment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/代码重构/写出好的代码/读书笔记/软件单元测试/测试替身.md",
+                "file": "Obsidian/后端/容器化相关技术/Docker/docker  拉取镜像报错的配置.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,54 +151,54 @@
       "templates:插入模板": false
     }
   },
-  "active": "2bd33743065f2443",
+  "active": "87edb27aade889f8",
   "lastOpenFiles": [
-    "Pasted image 20240408113245.png",
-    "Pasted image 20240408113156.png",
-    "Pasted image 20240408113142.png",
-    "Pasted image 20240408113112.png",
-    "Pasted image 20240408113055.png",
-    "Pasted image 20240408113028.png",
-    "Pasted image 20240408111657.png",
-    "Pasted image 20240408111627.png",
-    "Pasted image 20240408111607.png",
-    "Pasted image 20240408111554.png",
-    "Pasted image 20240408111543.png",
-    "Obsidian/代码重构/写出好的代码/读书笔记/软件单元测试/单元测试中的问题.md",
-    "Obsidian/代码重构/写出好的代码/读书笔记/软件单元测试/测试替身.md",
-    "Obsidian/代码重构/写出好的代码/读书笔记/软件单元测试/测试覆盖的概念.md",
-    "Obsidian/代码重构/写出好的代码/读书笔记/软件单元测试/桩对象和测试驱动.md",
-    "Obsidian/代码重构/写出好的代码/读书笔记/程序员职业素养/程序员职业素养读书笔记.md",
+    "Pasted image 20240611211927.png",
+    "Obsidian/后端/容器化相关技术/Docker/docker  拉取镜像报错的配置.md",
+    "Obsidian/后端/容器化相关技术/ELK/ELK部署（8.14版本）.md",
+    "Obsidian/后端/容器化相关技术/ELK/ELK得几个关键概念.md",
+    "Obsidian/后端/容器化相关技术/K8S/k8s入门.md",
+    "Obsidian/后端/容器化相关技术/ELK",
+    "Obsidian/后端/容器化相关技术/jenkins/net core 3.1升级到.net 8.0 jenkins构建问题.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术/0.解依赖技术.md",
+    "Obsidian/后端/容器化相关技术/Docker/自己本地环境发布docker.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/课外扩展汇总/重构.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/6.修改代码的几种常用方法.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/课外扩展汇总/术语表.md",
+    "Pasted image 20240524170103.png",
+    "Pasted image 20240524170042.png",
+    "Pasted image 20240524170024.png",
+    "Pasted image 20240524170002.png",
+    "Pasted image 20240524165939.png",
+    "Pasted image 20240524165826.png",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术/24.文本重定义.md",
+    "Pasted image 20240524165445.png",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术/23.模板重定义.md",
+    "Pasted image 20240524165220.png",
+    "Pasted image 20240524165146.png",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术/22.替换实例变量.md",
+    "Pasted image 20240524164954.png",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术/21.子类化并重写方法.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术/20.以获取方法替换全局引用.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术/19.换函数为函数指针.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术/18.依赖下推.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术/17.特性提升.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术/16.朴素化参数.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/10.无法在测试用具中运行方法.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术/15.参数化方法.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术/14.参数化构造函数.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术/13.连接替换.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术/12.引入静态设置方法.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术/11.引入实例委托.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/25.解依赖的技术",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/基本原则",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/课外扩展汇总",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/修改代码的艺术.pdf",
+    "Obsidian/以我视众/人生/心理学",
     "Obsidian/代码重构/写出好的代码/读书笔记/软件单元测试",
     "Obsidian/代码重构/写出好的代码/代码不朽.note.pdf",
     "Obsidian/代码重构/写出好的代码/重构：去掉代码中的坏味道.note.pdf",
     "Obsidian/代码重构/写出好的代码/读书笔记",
-    "Obsidian/代码重构/写出好的代码/读书笔记/代码整洁之道",
-    "Obsidian/代码重构/写出好的代码/代码 Review.note.pdf",
-    "Obsidian/代码重构/写出好的代码/实践",
-    "Obsidian/代码重构/测试/单元测试/单元测试的艺术/单元测试的艺术.md",
-    "Obsidian/代码重构/写出好的代码/读书笔记/程序员职业素养",
-    "Obsidian/代码重构/测试/单元测试/单元测试.md",
-    "Obsidian/代码重构/测试/单元测试/单元测试的艺术",
-    "Obsidian/后端/底层技术相关/内存/dotnetcore容器内存泄漏排查步骤.md",
-    "Obsidian/以我视众/视和游/游戏/某些感悟.md",
-    "Obsidian/算法/学习笔记/数据结构基础/栈内存和堆内存.md",
-    "Obsidian/后端/底层技术相关/内存",
-    "Obsidian/以我视众/视和游/游戏/待过滤需要玩的游戏/2023-11-01.md",
-    "Obsidian/算法/算法大纲/算法面试知识点与考察频率 CheatSheet.md",
-    "Obsidian/算法/学习笔记/数组与链表/链表.md",
-    "Obsidian/以我视众/学习/关于记忆.md",
-    "Obsidian/后端/数据库/SQL SERVER转mysql记录.md",
-    "Obsidian/后端/NET CORE/net core学习.md",
-    "Obsidian/后端/NET CORE/从.net core3.1升级到.net core 8.0踩坑及总结记录.md",
-    "Obsidian/后端/NET CORE/升级.net core 8.0和之前3.1语法不一致的问题踩坑.md",
-    "Obsidian/后端/容器化相关技术/jenkins/net core 3.1升级到.net 8.0 jenkins构建问题.md",
-    "Obsidian/以我视众/关于情绪/语言霸凌.md",
-    "Obsidian/后端/容器化相关技术/Docker/升级8.0 自己构建dockerfiles测试记录.md",
-    "Obsidian/以我视众/视和游/游戏/一定要玩的游戏/2023-11-14.md",
-    "Obsidian/后端/容器化相关技术/Docker/信创环境部署记录.md",
-    "Obsidian/后端/容器化相关技术/Docker/docker 部署细节.md",
-    "Obsidian/后端/容器化相关技术/Docker/Docker其他知识.md",
     "test.canvas",
     "未命名.canvas"
   ]

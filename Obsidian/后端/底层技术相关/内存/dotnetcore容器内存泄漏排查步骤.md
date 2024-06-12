@@ -8,9 +8,9 @@ docker exec -it -u root /bin/bash
 ```
 --先用下面的命令看能不能找到对应的路径
 find / -name createdump
-/usr/share/dotnet/shared/Microsoft.NETCore.App/8.0.3/createdump
+/usr/share/dotnet/shared/Microsoft.NETCore.App/8.0.4/createdump
 找到路径后直接通过命令存储到指定路径
-/usr/share/dotnet/shared/Microsoft.NETCore.App/8.0.3/createdump -f /app/Files/dump00403.dmp 1
+/usr/share/dotnet/shared/Microsoft.NETCore.App/8.0.4/createdump -f /app/Files/dump00403.dmp 1
 ```
 # 3.得到转存文件后分析(服务器上面)
 ```
@@ -20,10 +20,13 @@ dotnet tool install --global dotnet-dump
 --先把对应的工具添加到环境变量中来
 export PATH=$PATH:/root/.dotnet/tools
 --进入分析模式
-dotnet-dump analyze /app/Files/dump00403.dmp
+dotnet-dump analyze /app/Files/dump0414.dmp
 --进一步分析
-dumpheap -stat
+用上面的命令能得到详细的内存泄漏的完整的content记录
+ db 7ea7e6357928 -c 65536
 
+--类似下面的命令可以把gcroot的结果输出到本地文件来
+dotnet-dump analyze D:\dump\dump0506.dmp --command "gcroot 7f8ef3dca410" > D:\dump\gcroot_output.txt
 
 ```
 
