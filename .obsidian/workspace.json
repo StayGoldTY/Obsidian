@@ -8,49 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52818b60b43b2907",
+            "id": "4e07c3cdd0ea7847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/后端/底层技术相关/关于锁/Lock的深入理解.md",
+                "file": "Obsidian/以我视众/视和游/游戏/待过滤需要玩的游戏/2023-11-01---continue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lock的深入理解"
+              "title": "2023-11-01---continue"
             }
           },
           {
-            "id": "58905847a3fda191",
+            "id": "df166419e4aee1f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/后端/底层技术相关/关于锁/锁的底层原理.md",
+                "file": "Obsidian/其他便签/写过25W行代码，3个操作系统：我如何做架构设计来降低代码复杂度.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "锁的底层原理"
+              "title": "写过25W行代码，3个操作系统：我如何做架构设计来降低代码复杂度"
             }
           },
           {
-            "id": "f83e288e80310235",
+            "id": "401018ec07bb2d6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/代码重构/写出好的代码/实践/关于单一原则和职责分离的实践.md",
+                "file": "Obsidian/代码重构/写出好的代码/代码原则/SOLID/SRP/单一职责原理SRP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关于单一原则和职责分离的实践"
+              "title": "单一职责原理SRP"
             }
           },
           {
-            "id": "01249a2e78f6e23e",
+            "id": "cb6d6009456dc240",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,37 +62,9 @@
               "icon": "lucide-file",
               "title": "建造者模式"
             }
-          },
-          {
-            "id": "364c37f75b6840d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/后端/NET CORE/委托和表达式树/委托定义.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "委托定义"
-            }
-          },
-          {
-            "id": "230b7e5b26c7b77c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/代码重构/写出好的代码/设计模式/迭代器模式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "迭代器模式"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "委托",
+                "query": "接口隔离原则",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,54 +169,54 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "230b7e5b26c7b77c",
+  "active": "cb6d6009456dc240",
   "lastOpenFiles": [
-    "Obsidian/代码重构/写出好的代码/设计模式/命令模式.md",
-    "Obsidian/代码重构/写出好的代码/设计模式/迭代器模式.md",
-    "Obsidian/代码重构/写出好的代码/设计模式/建造者模式.md",
-    "Obsidian/后端/NET CORE/委托和表达式树/委托定义.md",
-    "Obsidian/代码重构/写出好的代码/学习课程笔记/TDD测试驱动开发/TDD测试驱动开发大纲.md",
-    "Obsidian/代码重构/写出好的代码/设计模式/模板方法模式.md",
-    "Obsidian/代码重构/写出好的代码/设计模式/代理模式.md",
-    "Obsidian/代码重构/写出好的代码/设计模式/享元模式.md",
-    "Obsidian/代码重构/写出好的代码/设计模式/外观模式.md",
-    "Obsidian/代码重构/写出好的代码/设计模式/组合模式.md",
-    "Obsidian/代码重构/写出好的代码/实践/关于单一原则和职责分离的实践.md",
-    "Obsidian/代码重构/写出好的代码/设计模式/工厂模式/工厂模式.md",
-    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/2.第二部分 修改代码的技术/6.修改代码的几种常用方法.md",
-    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/2.第二部分 修改代码的技术/8.添加特性.md",
-    "Obsidian/代码重构/测试/单元测试/重构作者对于测试的看法.md",
-    "Obsidian/后端/底层技术相关/关于锁/锁的底层原理.md",
-    "Obsidian/后端/底层技术相关/关于锁/Lock的深入理解.md",
-    "Obsidian/代码重构/写出好的代码/实践/从命名开始.note.pdf",
-    "Obsidian/代码重构/写出好的代码/设计模式/工厂模式/工厂模式变种.md",
-    "Obsidian/代码重构/写出好的代码/10X程序员工作法/3.沟通反馈/22  轻量级沟通：你总是在开会吗？.md",
-    "Obsidian/后端/底层技术相关/关于锁/java和.net中的锁的理解.md",
-    "Obsidian/代码重构/设计模式/算法=逻辑+控制.md",
-    "Obsidian/后端/底层技术相关/关于锁/Lock锁和分布式锁.md",
-    "Obsidian/后端/底层技术相关/关于锁",
-    "Obsidian/代码重构/写出好的代码/设计模式/工厂模式/工厂模式相关个人理解.md",
-    "Obsidian/代码重构/写出好的代码/设计模式/工厂模式/工厂模式补充.md",
-    "Obsidian/小记录/读书小记录/占有还是存在/关于占有和存在的自我理解.md",
     "Obsidian/代码重构/写出好的代码/设计模式/策略模式.md",
+    "Obsidian/小记录/日常小记录/体重记录/体重记录.md",
+    "Obsidian/代码重构/写出好的代码/代码原则/SOLID/SRP/单一职责原理SRP.md",
+    "Obsidian/代码重构/写出好的代码/设计模式/模板方法模式.md",
+    "Obsidian/代码重构/写出好的代码/代码原则/SOLID/SRP",
+    "Obsidian/以我视众/视和游/游戏/待过滤需要玩的游戏/2023-11-01---continue.md",
+    "Obsidian/以我视众/视和游/游戏/待过滤需要玩的游戏/2024-06-20.md",
+    "Obsidian/以我视众/视和游/游戏/一定要玩的游戏/2023-11-14.md",
+    "Obsidian/代码重构/DDD领域驱动/应用服务和领域服务.md",
+    "Obsidian/代码重构/DDD领域驱动/DDD里面的动词和名词.md",
+    "Obsidian/代码重构/DDD领域驱动/值对象和实体.md",
+    "Obsidian/代码重构/写出好的代码/代码原则/SOLID/DIP/高层模块和低层模块.md",
+    "Obsidian/代码重构/DDD领域驱动",
+    "Obsidian/代码重构/写出好的代码/代码原则/SOLID/DIP/依赖倒置原则（DIP）.md",
+    "Obsidian/代码重构/写出好的代码/代码原则/SOLID/DIP",
+    "Obsidian/代码重构/写出好的代码/设计模式/工厂模式/工厂模式补充.md",
+    "Obsidian/代码重构/写出好的代码/设计模式/工厂模式/工厂模式变种.md",
+    "Obsidian/后端/语言基础/函数式编程/net中函数式编程.md",
+    "Obsidian/代码重构/写出好的代码/代码原则/SOLID/里氏替换原则（LSP）.md",
+    "Obsidian/代码重构/写出好的代码/设计模式/设计模式基本原则/设计模式的七大原则.md",
+    "Obsidian/其他便签/写过25W行代码，3个操作系统：我如何做架构设计来降低代码复杂度.md",
+    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/2.第二部分 修改代码的技术/20.处理大类.md",
+    "Obsidian/其他便签/声明式设计.md",
+    "Obsidian/代码重构/写出好的代码/代码原则/SOLID",
+    "Obsidian/后端/语言基础/函数式编程/函数是一等公民具体是指的什么.md",
+    "Obsidian/后端/语言基础/函数式编程/net中的扩展方法.md",
+    "Obsidian/后端/语言基础/函数式编程/纯函数的定义.md",
+    "Obsidian/后端/语言基础/面向对象风格代码和面向过程风格代码/关于是否抽象专门对象的复杂度定义.md",
+    "Obsidian/后端/语言基础/函数式编程",
+    "Obsidian/后端/语言基础/面向对象风格代码和面向过程风格代码/用面向对象的语言写出面向过程的代码.md",
+    "Obsidian/后端/语言基础/面向对象风格代码和面向过程风格代码/关于面向过程风格代码和面向对象风格代码的折衷点.md",
+    "Obsidian/后端/语言基础/面向对象风格代码和面向过程风格代码",
+    "Obsidian/小记录/日常小记录/体重记录",
+    "Obsidian/其他便签",
+    "Pasted image 20241230142041.png",
+    "Pasted image 20241230141958.png",
+    "Pasted image 20241230141942.png",
+    "Obsidian/代码重构/写出好的代码/设计模式/桥接模式",
+    "Obsidian/代码重构/架构/架构课笔记.note.pdf",
+    "Pasted image 20241106134826.png",
     "Pasted image 20241023102214.png",
     "Pasted image 20241023102158.png",
     "Pasted image 20241017172635.png",
     "Pasted image 20241017172452.png",
     "Pasted image 20241017172306.png",
     "Pasted image 20241017172258.png",
-    "Pasted image 20241017172138.png",
-    "Pasted image 20241017172006.png",
-    "Pasted image 20241017171912.png",
-    "Pasted image 20241017171755.png",
-    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/2.第二部分 修改代码的技术",
-    "Obsidian/代码重构/写出好的代码/读书笔记/修改代码的艺术/1.第一部分 修改机理",
-    "Obsidian/重要知识便签",
-    "Obsidian/代码重构/写出好的代码/软件设计之美/开篇词",
-    "Obsidian/代码重构/写出好的代码/软件设计之美",
-    "Obsidian/读书笔记/如何成为学习高手/2. 高效学习",
-    "Obsidian/读书笔记/如何成为学习高手/1. 底层思维",
-    "Obsidian/读书笔记/如何成为学习高手",
     "test.canvas",
     "未命名.canvas"
   ]
