@@ -40,22 +40,6 @@
             }
           },
           {
-            "id": "cc8923622ba77844",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/小记录/日常小记录/体重记录/减肥记录.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "减肥记录"
-            }
-          },
-          {
             "id": "00b0e5d154e88a3f",
             "type": "leaf",
             "pinned": true,
@@ -72,77 +56,63 @@
             }
           },
           {
-            "id": "5cdec8d79ef2913b",
+            "id": "d05f4db2f05cfb4e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/代码重构/写出好的代码/设计模式/装饰器模式.md",
+                "file": "Obsidian/小记录/日常小记录/感恩/感恩日记.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "装饰器模式"
+              "title": "感恩日记"
             }
           },
           {
-            "id": "411f49dc101fd4c3",
+            "id": "bc5984346fd924f7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/快速入门/命令行工具.md",
+                "file": "Obsidian/小记录/日常小记录/进步和反思/进步和反思日记.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "命令行工具"
+              "title": "进步和反思日记"
             }
           },
           {
-            "id": "ad55edac3185ce7c",
+            "id": "98662549476803bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/代码重构/测试/单元测试/反射的基本原理.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "反射的基本原理"
+              "title": "新标签页"
             }
           },
           {
-            "id": "6a7a984c6a2f7951",
+            "id": "c7483b2b29095c4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/代码重构/写出好的代码/代码原则/LOD迪米特法则（最少知道原则）.md",
+                "file": "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/产品介绍/Rancher 中Kubernetes 概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LOD迪米特法则（最少知道原则）"
-            }
-          },
-          {
-            "id": "bc44b463dd92f29b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/代码重构/写出好的代码/代码原则/单一抽象层级SLAP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "单一抽象层级SLAP"
+              "title": "Rancher 中Kubernetes 概念"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -174,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Rancher ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +165,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,8 +186,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/DevOps/容器化相关技术/Docker/Docker 清理相关.md",
-                "collapseAll": true,
+                "file": "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/产品介绍/Rancher 中Kubernetes 概念.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -225,15 +196,79 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Docker 清理相关 的反向链接列表"
+              "title": "Rancher 中Kubernetes 概念 的反向链接列表"
+            }
+          },
+          {
+            "id": "2df5e0c4a8e3134c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/产品介绍/Rancher 中Kubernetes 概念.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Rancher 中Kubernetes 概念 的大纲"
+            }
+          },
+          {
+            "id": "c4aa605f5cb292fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/产品介绍/Rancher 中Kubernetes 概念.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Rancher 中Kubernetes 概念 的出链列表"
+            }
+          },
+          {
+            "id": "2b98b7482fd87865",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "23575352d04da9ee",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
+            "id": "f51eac95a5c45ab6",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Chronology"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 437.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,49 +280,52 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-kanban:创建新看板": false,
+      "chronology:Open Chronology": false
     }
   },
-  "active": "bc44b463dd92f29b",
+  "active": "f51eac95a5c45ab6",
   "lastOpenFiles": [
+    "Obsidian/小记录/日常小记录/进步和反思/进步和反思日记.md",
+    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/用户指南/Drawing 2025-05-09 08.46.49.excalidraw.md",
+    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/用户指南/部署工作负载.md",
+    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher国内Docker安装/Rancher安装命令.md",
+    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher国内Docker安装/Rancher进行拉取不成功的处理，以coredns为例.md",
+    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/用户指南/证书，加密HTTP通信.md",
+    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/用户指南/通过 Rancher UI 管理 HPA.md",
+    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/创建集群/RKE集群参数.md",
+    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/创建集群/创建 Windows 集群.md",
+    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher2.5.9 升级rancher 2.7.1复盘.md",
+    "Obsidian/DevOps/容器化相关技术/Rancher相关/rancher-agent的作用.md",
+    "Obsidian/小记录/心理小记录/机制/如何察觉机制.md",
+    "Obsidian/小记录/心理小记录/艾瑞克森疗法2.md",
+    "Obsidian/小记录/心理小记录/艾瑞克森疗法.md",
+    "Obsidian/小记录/心理小记录/感觉和念头.md",
+    "Obsidian/小记录/心理小记录/关于无聊.md",
+    "Obsidian/小记录/心理小记录/机制",
+    "Obsidian/小记录/心理小记录/机制/机制永远是良性的.md",
+    "Obsidian/小记录/心理小记录/学习/反馈/把反馈推向极限.md",
+    "Obsidian/小记录/心理小记录/学习/反馈/3F之反馈.md",
+    "Obsidian/小记录/心理小记录/学习/反馈",
+    "思维导图/工作/数据库读写分离.md",
+    "Obsidian/模板/体重记录.md",
+    "Obsidian/模板/感恩日记.md",
+    "思维导图/工作",
+    "思维导图",
     "Obsidian/小记录/日常小记录/体重记录/体重记录.md",
-    "Obsidian/代码重构/写出好的代码/代码原则/单一抽象层级SLAP.md",
-    "Obsidian/小记录/日常小记录/体重记录/减肥记录.md",
     "Obsidian/小记录/日常小记录/账单/每日账本.md",
-    "Obsidian/代码重构/写出好的代码/代码原则/LOD迪米特法则（最少知道原则）.md",
-    "Obsidian/代码重构/写出好的代码/代码原则/高内聚、松耦合  具体是指的什么.md",
-    "Obsidian/后端/NET CORE/关于泛型.md",
-    "Obsidian/逻辑/抽象思维训练.md",
-    "Obsidian/逻辑/内涵和外延.md",
-    "Obsidian/小记录/心理小记录/成为场.md",
-    "Obsidian/代码重构/测试/单元测试/反射的基本原理.md",
-    "Obsidian/代码重构/写出好的代码/设计模式/代理模式.md",
-    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/快速入门/命令行工具.md",
-    "Obsidian/后端/依赖注入和AOP相关/IOC相关.md",
-    "Obsidian/后端/NET CORE/net core 启动程序以及管道入门.md",
-    "Obsidian/代码重构/写出好的代码/学习课程笔记/设计模式之美/19 理论五：控制反转、依赖反转、依赖注入，这三者有何区别和联系？.md",
-    "Obsidian/代码重构/写出好的代码/学习课程笔记/设计模式之美/31 32 33 快速改善代码质量几个重要编程编程规范.md",
-    "Obsidian/代码重构/写出好的代码/设计模式/装饰器模式.md",
-    "Obsidian/代码重构/写出好的代码/设计模式/策略模式.md",
-    "Obsidian/后端/数据库/SQL 语句/SQL 语句问题总结.md",
-    "Obsidian/以我视众/视和游/游戏/待过滤需要玩的游戏/2023-11-01---continue.md",
-    "Obsidian/以我视众/视和游/游戏/待过滤需要玩的游戏/2024-06-20.md",
-    "Obsidian/代码重构/写出好的代码/设计模式/设计模式基本原则/设计模式的七大原则.md",
-    "Obsidian/代码重构/写出好的代码/设计模式/设计模式基本原则/设计模式本质是为了让控制和逻辑更好的分离.md",
-    "Obsidian/代码重构/写出好的代码/设计模式/设计模式基本原则/SOLID原则/Liskov 替换法则.md",
-    "Obsidian/代码重构/写出好的代码/代码原则/SOLID/里氏替换原则（LSP）.md",
-    "Obsidian/小记录/日常小记录/账单",
+    "Obsidian/小记录/日常小记录/感恩/感恩日记.md",
+    "Obsidian/模板/进步和反思模板.md",
+    "Obsidian/小记录/日常小记录/进步和反思",
+    "Obsidian/小记录/心理小记录/学习/动机",
+    "Obsidian/小记录/心理小记录/减肥之道",
+    "Obsidian/小记录/心理小记录/学习",
+    "Obsidian/DevOps/容器化相关技术/Rancher相关/rancher和k8s",
+    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher国内Docker安装",
     "Pasted image 20250221101520.png",
     "Pasted image 20250221095918.png",
-    "Obsidian/小记录/心理小记录",
-    "Obsidian/小记录/日常小记录/体重心得",
-    "Obsidian/逻辑",
-    "Obsidian/代码重构/写出好的代码/代码原则/SOLID/SRP",
-    "Obsidian/代码重构/DDD领域驱动",
-    "Obsidian/代码重构/写出好的代码/代码原则/SOLID/DIP",
-    "Obsidian/代码重构/写出好的代码/代码原则/SOLID",
-    "Obsidian/后端/语言基础/函数式编程",
-    "Obsidian/后端/语言基础/面向对象风格代码和面向过程风格代码",
     "Pasted image 20241230142041.png",
     "Pasted image 20241230141958.png",
     "Pasted image 20241230141942.png",

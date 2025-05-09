@@ -20,5 +20,13 @@
       ],
       "key": "F2"
     }
+  ],
+  "outline:open-for-current": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }
