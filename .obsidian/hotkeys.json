@@ -28,5 +28,13 @@
       ],
       "key": "M"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }

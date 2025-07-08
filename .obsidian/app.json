@@ -4,5 +4,6 @@
   "promptDelete": false,
   "showLineNumber": true,
   "readableLineLength": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
 }

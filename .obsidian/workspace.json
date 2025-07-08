@@ -8,67 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1d5c04d91f9afe4",
+            "id": "6d372fdcd5f2915c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/小记录/心理小记录/成为场.md",
+                "file": "Obsidian/小记录/心理小记录/关于幸福/齐泽克的幸福观.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "成为场"
-            }
-          },
-          {
-            "id": "f03fb67df7dd5968",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/小记录/日常小记录/体重记录/体重记录.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "体重记录"
-            }
-          },
-          {
-            "id": "00b0e5d154e88a3f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/小记录/日常小记录/账单/每日账本.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "每日账本"
-            }
-          },
-          {
-            "id": "d05f4db2f05cfb4e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/小记录/日常小记录/感恩/感恩日记.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "感恩日记"
+              "title": "齐泽克的幸福观"
             }
           },
           {
@@ -88,31 +40,49 @@
             }
           },
           {
-            "id": "98662549476803bb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "c7483b2b29095c4d",
+            "id": "f89d760080e67541",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/产品介绍/Rancher 中Kubernetes 概念.md",
+                "file": "博客/Net Core实践博客/高版本.net core启动精要部分讲解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rancher 中Kubernetes 概念"
+              "title": "高版本.net core启动精要部分讲解"
+            }
+          },
+          {
+            "id": "2392d64baf9fc6a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/后端/NET CORE/Net Core核心原理/中间件/中间件核心学习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "中间件核心学习"
+            }
+          },
+          {
+            "id": "80fb5ac25f3a6ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/小记录/心理小记录/拉康/三界/实在界/创伤/创伤是否是实在界闯入的标志.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "创伤是否是实在界闯入的标志"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Rancher ",
+                "query": "创伤",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,12 +135,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 446.5
   },
   "right": {
     "id": "38809d7fa3f42de6",
@@ -186,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/产品介绍/Rancher 中Kubernetes 概念.md",
+                "file": "Obsidian/后端/语言基础/函数式编程/纯函数的定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,22 +165,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rancher 中Kubernetes 概念 的反向链接列表"
-            }
-          },
-          {
-            "id": "2df5e0c4a8e3134c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/产品介绍/Rancher 中Kubernetes 概念.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Rancher 中Kubernetes 概念 的大纲"
+              "title": "纯函数的定义 的反向链接列表"
             }
           },
           {
@@ -220,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/产品介绍/Rancher 中Kubernetes 概念.md",
+                "file": "Obsidian/后端/语言基础/函数式编程/纯函数的定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Rancher 中Kubernetes 概念 的出链列表"
+              "title": "纯函数的定义 的出链列表"
             }
           },
           {
@@ -244,16 +198,6 @@
             }
           },
           {
-            "id": "23575352d04da9ee",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {},
-              "icon": "lines-of-text",
-              "title": "Quiet Outline"
-            }
-          },
-          {
             "id": "f51eac95a5c45ab6",
             "type": "leaf",
             "state": {
@@ -262,13 +206,44 @@
               "icon": "clock",
               "title": "Chronology"
             }
+          },
+          {
+            "id": "da36f787e890f25e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/后端/语言基础/函数式编程/纯函数的定义.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "纯函数的定义 的大纲"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
+      },
+      {
+        "id": "228bfeb8a86c5161",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa7899b567b0b8d7",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,44 +261,46 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "f51eac95a5c45ab6",
+  "active": "2392d64baf9fc6a6",
   "lastOpenFiles": [
-    "Obsidian/小记录/日常小记录/进步和反思/进步和反思日记.md",
-    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/用户指南/Drawing 2025-05-09 08.46.49.excalidraw.md",
-    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/用户指南/部署工作负载.md",
-    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher国内Docker安装/Rancher安装命令.md",
-    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher国内Docker安装/Rancher进行拉取不成功的处理，以coredns为例.md",
-    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/用户指南/证书，加密HTTP通信.md",
-    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/用户指南/通过 Rancher UI 管理 HPA.md",
-    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/创建集群/RKE集群参数.md",
-    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher 官方中文文档/创建集群/创建 Windows 集群.md",
-    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher2.5.9 升级rancher 2.7.1复盘.md",
-    "Obsidian/DevOps/容器化相关技术/Rancher相关/rancher-agent的作用.md",
-    "Obsidian/小记录/心理小记录/机制/如何察觉机制.md",
-    "Obsidian/小记录/心理小记录/艾瑞克森疗法2.md",
-    "Obsidian/小记录/心理小记录/艾瑞克森疗法.md",
-    "Obsidian/小记录/心理小记录/感觉和念头.md",
-    "Obsidian/小记录/心理小记录/关于无聊.md",
-    "Obsidian/小记录/心理小记录/机制",
-    "Obsidian/小记录/心理小记录/机制/机制永远是良性的.md",
-    "Obsidian/小记录/心理小记录/学习/反馈/把反馈推向极限.md",
-    "Obsidian/小记录/心理小记录/学习/反馈/3F之反馈.md",
-    "Obsidian/小记录/心理小记录/学习/反馈",
-    "思维导图/工作/数据库读写分离.md",
-    "Obsidian/模板/体重记录.md",
-    "Obsidian/模板/感恩日记.md",
-    "思维导图/工作",
-    "思维导图",
-    "Obsidian/小记录/日常小记录/体重记录/体重记录.md",
+    "工作经历",
+    "Obsidian/小记录/心理小记录/拉康/三界/实在界/创伤/创伤是否是实在界闯入的标志.md",
+    "Obsidian/小记录/心理小记录/拉康/三界/实在界/创伤/实在界和创伤的关系.md",
+    "Obsidian/小记录/心理小记录/拉康/三界/实在界/创伤/创伤来源.md",
+    "Obsidian/小记录/心理小记录/拉康/三界/实在界/创伤",
+    "Obsidian/小记录/心理小记录/拉康/三界/实在界/和实在界发生碰撞鼓励我们用于行动.md",
+    "Obsidian/小记录/心理小记录/拉康/三界/实在界/和实在界发生碰撞.md",
+    "Obsidian/小记录/心理小记录/拉康/对象a/对象a的产生/对象a的产生.md",
+    "Obsidian/后端/NET CORE/Net Core核心原理/关于.net6之前的和之后的启动方式的不同的疑问.md",
+    "Obsidian/后端/NET CORE/Net Core核心原理/中间件/中间件核心学习.md",
+    "Obsidian/小记录/心理小记录/关于幸福/齐泽克的幸福观.md",
+    "Obsidian/后端/NET CORE/Net Core核心原理/中间件/net core中间件的概念.md",
+    "Obsidian/后端/NET CORE/Net Core核心原理/中间件",
+    "Obsidian/后端/NET CORE/Net Core核心原理/Net Core核心入门.md",
+    "博客/Net Core实践博客/高版本.net core启动精要部分讲解.md",
+    "博客/单元测试学习/好的测试.md",
+    "博客/Net Core实践博客",
+    "Obsidian/后端/NET CORE/Net Core核心原理/net core 启动程序以及管道入门.md",
+    "Obsidian/后端/NET CORE/Net Core核心原理/Net Core原生的接口注册容器ServiceCollection和Autofac.ContainerBuilder对比.md",
+    "Obsidian/后端/NET CORE/Net 里面LINQ的适用范围.md",
+    "Obsidian/后端/NET CORE/Net Core核心原理",
+    "Obsidian/逻辑/抽象思维训练.md",
     "Obsidian/小记录/日常小记录/账单/每日账本.md",
-    "Obsidian/小记录/日常小记录/感恩/感恩日记.md",
-    "Obsidian/模板/进步和反思模板.md",
-    "Obsidian/小记录/日常小记录/进步和反思",
-    "Obsidian/小记录/心理小记录/学习/动机",
-    "Obsidian/小记录/心理小记录/减肥之道",
-    "Obsidian/小记录/心理小记录/学习",
-    "Obsidian/DevOps/容器化相关技术/Rancher相关/rancher和k8s",
-    "Obsidian/DevOps/容器化相关技术/Rancher相关/Rancher国内Docker安装",
+    "Obsidian/小记录/日常小记录/体重记录/体重记录.md",
+    "Obsidian/小记录/日常小记录/进步和反思/进步和反思日记.md",
+    "博客/单元测试学习/单元测试的智慧.md",
+    "博客/单元测试学习/Nunit和JUnit对比.md",
+    "博客/单元测试学习/net单元测试基本教程.md",
+    "博客/单元测试学习/Moq基本教程.md",
+    "博客/单元测试实践博客/1.单元测试入门.md",
+    "博客/单元测试学习",
+    "博客/单元测试实践博客",
+    "博客",
+    "有道云/笔记模板/康奈尔笔记法.note.pdf",
+    "有道云/财富自由之路/开源与节流.note.pdf",
+    "有道云/测试驱动开发/Selenium 环境搭建.note.pdf",
+    "Pasted image 20250530112742.png",
+    "Pasted image 20250528141701.png",
     "Pasted image 20250221101520.png",
     "Pasted image 20250221095918.png",
     "Pasted image 20241230142041.png",
@@ -332,8 +309,6 @@
     "Pasted image 20241106134826.png",
     "Pasted image 20241023102214.png",
     "Pasted image 20241023102158.png",
-    "Pasted image 20241017172635.png",
-    "Pasted image 20241017172452.png",
     "test.canvas",
     "未命名.canvas"
   ]
